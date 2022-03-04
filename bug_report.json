@@ -1,1 +1,9 @@
-
+{
+  "id": 1,
+  "summary": "What, Where, When",
+  "steps": "The way to the bug",
+  "actualResult": "Doesn't work",
+  "expectedResult": "Work",
+  "severity": "Critical",
+  "priority": "High"
+}
