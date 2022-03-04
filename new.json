@@ -1,0 +1,24 @@
+{
+	"surname": "Strazhnikov",
+	"name": "Andrey",
+	"age": 36,
+		"pets": {
+			"dog": {
+				"name": "Takeshi",
+				"age": 8
+				}
+			},
+	"salary": 5000
+}
+
+
+
+
+
+
+
+
+
+
+
+}
